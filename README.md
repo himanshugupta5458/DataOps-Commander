@@ -26,13 +26,6 @@ Automated what used to take 2-3 hours of manual Excel work into a 30-second uplo
 
 ---
 
-## 🚀 Quick Start
-```bash
-pip install streamlit pandas numpy matplotlib openpyxl
-streamlit run app.py
-```
-
----
 
 ## 💡 Why This Exists
 
@@ -46,7 +39,5 @@ Built for internal use only. Not production-grade, just solves the specific prob
 
 **Himanshu Gupta** - When your sales ops team is drowning in Excel cleanup, you build tools like this.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Himanshu.g302000@gmail.com)
 
 </div>
